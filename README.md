@@ -11,3 +11,5 @@ Para eu clonar esse repositório usei  o comando git clone https://github.com/jo
 
 ## Push
 estou a ter dificuldades na permissão do push
+
+Blá blá blá n sei mais oq escrever
